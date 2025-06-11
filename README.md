@@ -1,4 +1,4 @@
-## Heyy. I'am cardosogpr! 👋
+## Heyy. I'm cardosogpr! 👋
 
 
 - 🔭 I’m working on Full Stack
