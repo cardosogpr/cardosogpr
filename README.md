@@ -7,5 +7,5 @@
 - 😄 Pronouns: He/Him
 
 <div>
-  [Cardosogpr's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardosogpr) ] (https://github.com/cardosogpr/github-readme-stats)
+[![cardosogpr's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardosogpr) ] (https://github.com/anuraghazra/github-readme-stats)
 </div>
