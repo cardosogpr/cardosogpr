@@ -1,10 +1,12 @@
-## Heyy. I'm cardosogpr! 👋
+## Hello, Olá! I'm Cardoso, a Portuguese Programmer! 👋
 
 
-- 🔭 I’m working on Full Stack
-- 🌱 I’m learning HTML, CSS, Javascript and Java
-- 📫 How to reach me: ruee.contato@gmail.com
-- 😄 Pronouns: He/Him
+🛜 currently working on my own <a href="https://github.com/cardosogpr/myWebsite"> website <a/>
+<br>
+🧑‍💻​ learning html, css, javascript, and java
+<br>
+💻​ starting programming at 2021
+<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="cardosogpr-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
