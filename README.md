@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">🛜 currently working on my own <a href="https://github.com/cardosogpr/myWebsite"> website <a/><br>🧑‍💻​ learning html, css, javascript, and java<br>💻​ starting programming at 2021</p>
+<p align="left">🛜 currently working on my own <a href="https://github.com/cardosogpr/myWebsite"> website <a/><br>🧑‍💻​ learning html, css, javascript, and java<br>💻​ started programming in 2021</p>
 
 ###
 
@@ -20,8 +20,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
